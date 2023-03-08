@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678283094 source:e:\cprogram\employeemanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+
